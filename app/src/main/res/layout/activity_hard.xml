@@ -14,7 +14,7 @@
         android:background="@drawable/pab1"
         android:onClick="playAgain"
         android:textColor="@android:color/background_light"
-        android:textSize="24sp"
+        android:textSize="25sp"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
